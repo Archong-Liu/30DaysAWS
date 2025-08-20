@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Welcome to your CDK Python project!
 
@@ -57,7 +56,3 @@ command.
  * `cdk docs`        open CDK documentation
 
 Enjoy!
-=======
-# 30DaysAWS
-This is a tutorial Repo for ithome "30 days AWS" series 
->>>>>>> 4bb02dbe6a9a2099cf1a9f05d2f927c72055e1fa
