@@ -18,9 +18,9 @@ class MyCdkProjectStack(Stack):
             }
         )
 
-        MyL2Bucket = s3.Bucket(
+        MyL2Bucket = s3.Bucket( 
             self,
             "MyL2Bucket",
-            bucket_name="my-30daysaws-example-l2bucket",
+            bucket_name="my-30daysaws-example-l2bucket-for-cicd-test",
             versioned=True,
         )
